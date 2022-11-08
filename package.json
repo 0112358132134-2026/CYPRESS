@@ -1,0 +1,22 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "laboratorio Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0112358132134-2026/CYPRESS.git"
+  },
+  "author": "Pcuevas_2026",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/0112358132134-2026/CYPRESS/issues"
+  },
+  "homepage": "https://github.com/0112358132134-2026/CYPRESS#readme",
+  "devDependencies": {
+    "cypress": "^10.11.0"
+  }
+}
